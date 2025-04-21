@@ -12,19 +12,9 @@
 
 <!-- ABOUT ME -->
 ## 🙋‍♀️ About Me  
-🎓 Studying **Information Technology** at **Universitas Sumatera Utara**  
+🎓 Currently studying **Information Technology** at **Universitas Sumatera Utara**  
 💡 Passionate about **Web Development, AI, and Open Source**  
-🔬 Researching **Machine Learning & Cloud Computing**  
 🚀 2025 Goals: **Contribute more to Open Source & Build awesome projects**  
-⚡ Fun Fact: I love **coffee ☕, anime 🎥, and coding challenges 🏆**  
-
----
-
-<!-- TECH STACK -->
-## 🛠️ Tech Stack & Tools  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,django,flask,mysql,postgres,docker,aws,git,github,vscode,figma" />
-</p>
 
 ---
 
